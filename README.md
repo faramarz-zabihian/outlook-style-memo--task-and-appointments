@@ -1,4 +1,4 @@
-# Outlook98 style Organizer (notes, tasks, and appointments)
+# Outlook98 style organizer (notes, tasks, and appointments)
 
 This is one of my earliest experiences with Delphi, but I still find the application useful.
 

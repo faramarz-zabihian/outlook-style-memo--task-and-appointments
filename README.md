@@ -1,4 +1,4 @@
-# outlook98 style memo, task, and appointment
+# Outlook98 style memo, task, and appointment
 This was my first serious involvement with Delphi.
 
 It is written in Delphi5 environment, but since it does not depend in internal features of Delphi, it should be easily upgradable to Delphi 11.

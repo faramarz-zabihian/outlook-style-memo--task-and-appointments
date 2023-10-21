@@ -2503,7 +2503,7 @@ object dmOrganizer: TdmOrganizer
   end
   object spNotes_Select: TStoredProc
     DatabaseName = 'db'
-    StoredProcName = 'dbo.fssp_orNotes_Select'
+    StoredProcName = 'dbo.fssp_orNotes_Select;1'
     Left = 557
     Top = 11
     ParamData = <

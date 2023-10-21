@@ -2,7 +2,7 @@
 Version=1
 Left=18
 Top=177
-Width=1209
+Width=977
 Height=752
 Splitter=390
 SelectedTab=Components
@@ -20,7 +20,7 @@ PrintToFile=0
 PrintBorders=1
 PrintSelected=0
 PrintVisible=0
-ExpandedItems=dmOrganizer\<DefaultSession>\<ImpliedDatabase>.db\spCategory_Delete,dmOrganizer\<DefaultSession>\<ImpliedDatabase>.db\spAppointments_SelectMeeting,dmOrganizer\<DefaultSession>\<ImpliedDatabase>.db\spAppointments_Insert\spAppointments_Insert.Params,dmOrganizer\<DefaultSession>\<ImpliedDatabase>.db\spAppointments_Update\spAppointments_Update.Params,dmOrganizer\<DefaultSession>\<ImpliedDatabase>.db\spRecurrence_Select,dmOrganizer\<DefaultSession>\<ImpliedDatabase>.db\spNames_Select
+ExpandedItems=dmOrganizer\<DefaultSession>\<ImpliedDatabase>.db\spCategory_Delete,dmOrganizer\<DefaultSession>\<ImpliedDatabase>.db\spRecurrence_Select
 
 [DataDiagrams]
 Version=1
